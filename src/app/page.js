@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.page}>
       <Image
         className={styles.image}
-        src="/logo.svg"
+        src="/Logo.svg"
         alt="Fideliza+ Logo"
         width={500}
         height={500}
